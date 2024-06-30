@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01e1bb1b-8c31-4bb4-bee1-dd897683c153" name="Changes" comment="" />
+    <list default="true" id="01e1bb1b-8c31-4bb4-bee1-dd897683c153" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2gUw5i5uWARvnbhMp7fzL6F6NA0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,7 +109,29 @@
       <workItem from="1716544334088" duration="991000" />
       <workItem from="1716545789841" duration="1505000" />
       <workItem from="1716647114058" duration="1755000" />
-      <workItem from="1716711808971" duration="2275000" />
+      <workItem from="1716711808971" duration="4613000" />
+      <workItem from="1716718002139" duration="812000" />
+      <workItem from="1716839297483" duration="14000" />
+      <workItem from="1716882026341" duration="5295000" />
+      <workItem from="1716969782142" duration="2128000" />
+      <workItem from="1717058821722" duration="4603000" />
+      <workItem from="1717163412594" duration="746000" />
+      <workItem from="1717230162201" duration="3953000" />
+      <workItem from="1718886470985" duration="1830000" />
+      <workItem from="1718988663146" duration="2441000" />
+      <workItem from="1718993783569" duration="118000" />
+      <workItem from="1719065057041" duration="2022000" />
+      <workItem from="1719151257770" duration="4950000" />
+      <workItem from="1719163357319" duration="627000" />
+      <workItem from="1719227195493" duration="662000" />
+      <workItem from="1719238915869" duration="3816000" />
+      <workItem from="1719249813956" duration="3215000" />
+      <workItem from="1719310366216" duration="3894000" />
+      <workItem from="1719330511749" duration="1040000" />
+      <workItem from="1719343077694" duration="814000" />
+      <workItem from="1719426552434" duration="770000" />
+      <workItem from="1719479373827" duration="895000" />
+      <workItem from="1719736017508" duration="859000" />
     </task>
     <servers />
   </component>
@@ -114,6 +145,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/E_shop/views.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
